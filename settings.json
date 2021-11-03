@@ -1,0 +1,13 @@
+{
+    "name": "space-exchange",
+    "blocks": {
+        "/blockchain/ethereum": true,
+        "/blockchain/ethereum/solidity": true,
+        "/framework/react": true,
+        "/category/asset_value_tracking/core-token": true,
+        "/category/asset_value_tracking/core-token/name": "spaceDEX",
+        "/category/asset_value_tracking/core-token/symbol": "SDX",
+        "/category/asset_value_tracking/core-token/decimals": "18",
+        "/category/asset_value_tracking/core-token/supply": "1800000"
+    }
+}
